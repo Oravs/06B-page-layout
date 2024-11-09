@@ -54,6 +54,13 @@ a {
 .padding {
   padding: 1rem;
 }
+.line-height{
+  line-height: 2rem;
+  font-size: medium;
+}
+.border{
+  border: #3a2d28;
+}
 #article,
 #section {
   height: 100%;
@@ -97,6 +104,8 @@ a {
   align-items: center;
   background-color: #ebe3db;
   max-width: 80%;
+  
+  
 }
 
 #footer {
